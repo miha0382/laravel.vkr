@@ -1,0 +1,7 @@
+.btn-group-vertical{
+    display: none;
+}
+
+.hover-th:hover .btn-group-vertical{
+    display:inline-flex;
+} 
